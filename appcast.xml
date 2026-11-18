@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Airo</title>
+    <item>
+      <title>Airo 2.1</title>
+      <pubDate>Wed, 18 Nov 2026 23:36:41 +0000</pubDate>
+      <sparkle:version>2.1</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primeira versão com atualização automática: ilha com música, letra e capa, aba Estilo, Modo fora de casa com estimativa de bateria.</p>]]></description>
+      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.1/Airo-2.1.zip" type="application/octet-stream" sparkle:edSignature="QL2grPI32rehnFdUrYAju1gDSDGQbekMAMP4UJ7OnUeOxgFlJDXx2/OXxUZZSlP1aO8/KUkH6AFYUcSOUOo2Dg==" length="4240964" />
+    </item>
+  </channel>
+</rss>
