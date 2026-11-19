@@ -3,13 +3,13 @@
   <channel>
     <title>Airo</title>
     <item>
-      <title>Airo 2.3</title>
-      <pubDate>Thu, 19 Nov 2026 00:24:32 +0000</pubDate>
-      <sparkle:version>2.3</sparkle:version>
-      <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+      <title>Airo 2.4</title>
+      <pubDate>Thu, 19 Nov 2026 14:50:34 +0000</pubDate>
+      <sparkle:version>2.4</sparkle:version>
+      <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nova aba Ganhos: seu plano, quanto você ganhou, como funcionam os créditos e o pagamento. Correção do somzinho Espectro.</p>]]></description>
-      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.3/Airo-2.3.zip" type="application/octet-stream" sparkle:edSignature="CVsUo+Dz06UK5hXA91pb7xYanl9Qo3xtqVFkTMgR/B6cwd0Pc2BOihduNJyHOqMS1Z0iE/kRb8uCF1pyh1ZNCQ==" length="4364279" />
+      <description><![CDATA[<p>Canvas do Spotify na Tela de música, molduras de Natal na capa (guirlanda e pisca-pisca), efeito chuva, relógio de vidro corrigido, aba Música com conta do Spotify, dados do celular com aviso para recarregar, Estilo reorganizado, painel fecha ao clicar fora e várias correções.</p>]]></description>
+      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.4/Airo-2.4.zip" type="application/octet-stream" sparkle:edSignature="xnDGpDJSVHZU4x95/xep2A8lmGE4Ig6wpgYA0jRI3UKiRmwWpOGiiOFrzSdoCdshBshqLnLt2uMTyITTDysJAw==" length="5480609" />
     </item>
   </channel>
 </rss>
