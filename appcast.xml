@@ -3,13 +3,13 @@
   <channel>
     <title>Airo</title>
     <item>
-      <title>Airo 2.1</title>
-      <pubDate>Wed, 18 Nov 2026 23:36:41 +0000</pubDate>
-      <sparkle:version>2.1</sparkle:version>
-      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <title>Airo 2.2</title>
+      <pubDate>Thu, 19 Nov 2026 00:05:14 +0000</pubDate>
+      <sparkle:version>2.2</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primeira versão com atualização automática: ilha com música, letra e capa, aba Estilo, Modo fora de casa com estimativa de bateria.</p>]]></description>
-      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.1/Airo-2.1.zip" type="application/octet-stream" sparkle:edSignature="QL2grPI32rehnFdUrYAju1gDSDGQbekMAMP4UJ7OnUeOxgFlJDXx2/OXxUZZSlP1aO8/KUkH6AFYUcSOUOo2Dg==" length="4240964" />
+      <description><![CDATA[<p>Efeitos de fundo (neve, corações e fogos), foto do artista passando, nome da música em letreiro contínuo, opção de tirar o ícone e o somzinho (texto no centro), Vinil, Beija-flor, Notas, Ondas e Luz ambiente.</p>]]></description>
+      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.2/Airo-2.2.zip" type="application/octet-stream" sparkle:edSignature="Jzf7+etV6faoN5oa0NiZSVJ3iqwUZq2r+wzMl8Cw22x4FxEMwIU93PKsyZMmHmDasPiKo2UBagVg2j8agKRlBA==" length="4280621" />
     </item>
   </channel>
 </rss>
