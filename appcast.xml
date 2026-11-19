@@ -3,13 +3,13 @@
   <channel>
     <title>Airo</title>
     <item>
-      <title>Airo 2.4</title>
-      <pubDate>Thu, 19 Nov 2026 14:50:34 +0000</pubDate>
-      <sparkle:version>2.4</sparkle:version>
-      <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+      <title>Airo 2.5</title>
+      <pubDate>Thu, 19 Nov 2026 22:18:58 +0000</pubDate>
+      <sparkle:version>2.5</sparkle:version>
+      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Canvas do Spotify na Tela de música, molduras de Natal na capa (guirlanda e pisca-pisca), efeito chuva, relógio de vidro corrigido, aba Música com conta do Spotify, dados do celular com aviso para recarregar, Estilo reorganizado, painel fecha ao clicar fora e várias correções.</p>]]></description>
-      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.4/Airo-2.4.zip" type="application/octet-stream" sparkle:edSignature="xnDGpDJSVHZU4x95/xep2A8lmGE4Ig6wpgYA0jRI3UKiRmwWpOGiiOFrzSdoCdshBshqLnLt2uMTyITTDysJAw==" length="5480609" />
+      <description><![CDATA[<p>Pomodoro, tela de energia com modo economia, YouTube na ilha, Touch Bar ao vivo com controles da música, títulos longos quebrados na tela de música, seletor de abas mais suave e correções.</p>]]></description>
+      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.5/Airo-2.5.zip" type="application/octet-stream" sparkle:edSignature="eVfR+KqoTWjMtB9F2e4vYBhyzQs5QjHUCmFCS7YBkGVKssoUcC98N79xG+rjf8ruXBmyTYYXhQsjnYuJkDcCAg==" length="5872799" />
     </item>
   </channel>
 </rss>
