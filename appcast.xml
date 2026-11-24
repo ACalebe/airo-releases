@@ -3,13 +3,13 @@
   <channel>
     <title>Airo</title>
     <item>
-      <title>Airo 2.5</title>
-      <pubDate>Thu, 19 Nov 2026 22:18:58 +0000</pubDate>
-      <sparkle:version>2.5</sparkle:version>
-      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+      <title>Airo 2.6</title>
+      <pubDate>Tue, 24 Nov 2026 16:04:17 +0000</pubDate>
+      <sparkle:version>2.6</sparkle:version>
+      <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Pomodoro, tela de energia com modo economia, YouTube na ilha, Touch Bar ao vivo com controles da música, títulos longos quebrados na tela de música, seletor de abas mais suave e correções.</p>]]></description>
-      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.5/Airo-2.5.zip" type="application/octet-stream" sparkle:edSignature="eVfR+KqoTWjMtB9F2e4vYBhyzQs5QjHUCmFCS7YBkGVKssoUcC98N79xG+rjf8ruXBmyTYYXhQsjnYuJkDcCAg==" length="5872799" />
+      <description><![CDATA[<p>Novidades: botões de voltar, pausar e passar ao colocar o mouse na ilha; a ilha espera quando você pausa; YouTube no Safari; tocar um som nos AirPods; vídeos da sua pasta na Tela de música; e o atalho ⌃⌘M (Control + Command + M) para abrir a Tela de música.</p>]]></description>
+      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.6/Airo-2.6.zip" type="application/octet-stream" sparkle:edSignature="+oOfy5VpTmfv0jzjdox8RM9bdCRxvznivDbRnEfgRGQqyL8nnUWchyWB573U4cLc0l3rsAIxTE80oPEvsTGxAQ==" length="6472755" />
     </item>
   </channel>
 </rss>
