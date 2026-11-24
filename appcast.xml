@@ -3,13 +3,13 @@
   <channel>
     <title>Airo</title>
     <item>
-      <title>Airo 2.6</title>
-      <pubDate>Tue, 24 Nov 2026 16:04:17 +0000</pubDate>
-      <sparkle:version>2.6</sparkle:version>
-      <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+      <title>Airo 2.7</title>
+      <pubDate>Tue, 24 Nov 2026 17:39:16 +0000</pubDate>
+      <sparkle:version>2.7</sparkle:version>
+      <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Novidades: botões de voltar, pausar e passar ao colocar o mouse na ilha; a ilha espera quando você pausa; YouTube no Safari; tocar um som nos AirPods; vídeos da sua pasta na Tela de música; e o atalho ⌃⌘M (Control + Command + M) para abrir a Tela de música.</p>]]></description>
-      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.6/Airo-2.6.zip" type="application/octet-stream" sparkle:edSignature="+oOfy5VpTmfv0jzjdox8RM9bdCRxvznivDbRnEfgRGQqyL8nnUWchyWB573U4cLc0l3rsAIxTE80oPEvsTGxAQ==" length="6472755" />
+      <description><![CDATA[<p>Novidades: a Tela de música pode pedir a digital ou uma senha só dela para sair (opção em Estilo, desligada por padrão; não bloqueia o Mac) e dá para redefinir essa senha. Botão Relatar problema no rodapé do painel. Correções: a ilha desce sem descolar do topo e uma vez só ao voltar da Tela de música.</p>]]></description>
+      <enclosure url="https://github.com/ACalebe/airo-releases/releases/download/v2.7/Airo-2.7.zip" type="application/octet-stream" sparkle:edSignature="tutfQu3otQXfZBoGA/qQyIIZg4rH9MznZKYBxkP0FaVxEUS8I6hcBekMvxheZQkdUqhZSoB0YWtQjWUByp+WBw==" length="6652462" />
     </item>
   </channel>
 </rss>
